@@ -1,0 +1,14 @@
+/home/lepsima/Projects/Terminal/zsh-plus/bin/Debug/net10.0/zsh-plus
+/home/lepsima/Projects/Terminal/zsh-plus/bin/Debug/net10.0/zsh-plus.deps.json
+/home/lepsima/Projects/Terminal/zsh-plus/bin/Debug/net10.0/zsh-plus.runtimeconfig.json
+/home/lepsima/Projects/Terminal/zsh-plus/bin/Debug/net10.0/zsh-plus.dll
+/home/lepsima/Projects/Terminal/zsh-plus/bin/Debug/net10.0/zsh-plus.pdb
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.GeneratedMSBuildEditorConfig.editorconfig
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.AssemblyInfoInputs.cache
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.AssemblyInfo.cs
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.csproj.CoreCompileInputs.cache
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.dll
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/refint/zsh-plus.dll
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.pdb
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/zsh-plus.genruntimeconfig.cache
+/home/lepsima/Projects/Terminal/zsh-plus/obj/Debug/net10.0/ref/zsh-plus.dll
