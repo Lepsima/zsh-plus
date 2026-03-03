@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lepsima/Projects/Terminal/zsh-plus/source/zsh-plus.csproj": {}
+    "/home/lepsima/Projects/zsh-plus/zsh-plus.csproj": {}
   },
   "projects": {
-    "/home/lepsima/Projects/Terminal/zsh-plus/source/zsh-plus.csproj": {
+    "/home/lepsima/Projects/zsh-plus/zsh-plus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lepsima/Projects/Terminal/zsh-plus/source/zsh-plus.csproj",
+        "projectUniqueName": "/home/lepsima/Projects/zsh-plus/zsh-plus.csproj",
         "projectName": "zsh-plus",
-        "projectPath": "/home/lepsima/Projects/Terminal/zsh-plus/source/zsh-plus.csproj",
+        "projectPath": "/home/lepsima/Projects/zsh-plus/zsh-plus.csproj",
         "packagesPath": "/home/lepsima/.nuget/packages/",
-        "outputPath": "/home/lepsima/Projects/Terminal/zsh-plus/source/obj/",
+        "outputPath": "/home/lepsima/Projects/zsh-plus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lepsima/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net10.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zsh-plus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0508e0fa79a81086d54ac7b40e91a5ca4fa51fa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f5827022d79e16cefbb282a906fb6b862c08b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("zsh-plus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zsh-plus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

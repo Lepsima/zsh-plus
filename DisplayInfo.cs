@@ -9,6 +9,11 @@ internal static class DisplayInfo {
 		List<Display> result = [];
 		const string drmPath = "/sys/class/drm";
 
+		DateTime a = new DateTime();
+
+		int t = a.Year;
+		a.
+		
 		if (!Directory.Exists(drmPath))
 			return result;
 
