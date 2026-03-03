@@ -8,11 +8,6 @@ internal static class DisplayInfo {
 	public static List<Display> GetDisplays() {
 		List<Display> result = [];
 		const string drmPath = "/sys/class/drm";
-
-		DateTime a = new DateTime();
-
-		int t = a.Year;
-		a.
 		
 		if (!Directory.Exists(drmPath))
 			return result;
